@@ -1,2 +1,2 @@
-# Angelica-pychar-python
-Angelica-pychar-python
+# Angelica-pycharm-python
+Angelica-pycharm-python
