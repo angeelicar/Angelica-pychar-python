@@ -8,4 +8,4 @@ print(search)
 if search:
     print('se encontro')
 else:
-    print('no se encontro nada')
+    print('no se encontro lo que buscaba')
