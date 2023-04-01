@@ -6,6 +6,6 @@ search = re.search('class', text)
 print (search)
 
 if search:
-    print ('que rico puerto rico')
+    print ('se encontro')
 else:
-    print ('no se encontro ni chimba')
+    print ('no se encontro')
