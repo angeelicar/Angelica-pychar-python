@@ -34,6 +34,6 @@ Hijosdic = diccionario['Hijos']
 print(Nombredic)
 print(Edaddic)
 print(Hijosdic)
-diccionario['Nombre']= 'Edgar Alejandro'
+diccionario['Nombre']= 'Edgar Alejandro Quintero'
 print(diccionario['Nombre'])
 print(diccionario)
