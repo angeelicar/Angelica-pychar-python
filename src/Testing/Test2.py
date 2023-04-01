@@ -3,9 +3,9 @@ import re
 
 text = 'Esta es una de las mejores clases de testing en udemy'
 search = re.search('class', text)
-print (search)
+print(search)
 
 if search:
-    print ('se encontro')
+    print('se encontro')
 else:
-    print ('no se encontro')
+    print('no se encontro nada')
